@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1df59641-e8b0-4a41-9bf1-f778aa7b64b3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/Smash3DS.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/script.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-    </list>
+    <list default="true" id="1df59641-e8b0-4a41-9bf1-f778aa7b64b3" name="Default" comment="" />
     <ignored path="covers.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
