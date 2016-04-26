@@ -1,18 +1,18 @@
 $(document).ready(function(){
-animationHover('.test', 'zoomIn');
+animationHover('.test', 'bounceInUp');
 
 function animationHover(element, animation){
   element = $(element);
   element.hover(
     function() {
-      element.addClass('animated zoomIn' + animation);
+      element.addClass('animated ' + animation);
     },
     function(){
       //wait for animation to finish before removing classes
       window.setTimeout( function(){
-        element.removeClass('animated zoomIn' + animation);
-      }, 2000);
+        element.removeClass('animated ' + animation);
+      }, 510);
     }
   );
-};
-})
+}
+});
